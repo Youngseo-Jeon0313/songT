@@ -1,0 +1,19 @@
+footer {
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #263343;
+    padding:8px 12px;
+    margin: 0 auto;
+}
+
+h4{  
+    font-size:20px;
+    color: white;
+    margin-left: 8px;
+}
+
+h5{
+    color: rgba(255, 255, 255, 0.486);
+    margin-right: 6px;
+}
