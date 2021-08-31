@@ -5,15 +5,15 @@ import Page from "../page";
 import "./index.css";
 
 const view1 =
-  "https://i.postimg.cc/tTFNgwBH/Kakao-Talk-20210820-122624792.jpg";
-const view2 =
-  "https://i.postimg.cc/7Yt0qqq2/Kakao-Talk-20210820-122624792-01.jpg";  
+  "https://i.postimg.cc/v82Jvhhw/Kakao-Talk-20210830-024144550.jpg";
+const view2 =  
+  "https://i.postimg.cc/SKG5YfR5/Kakao-Talk-20210830-024152349.jpg";
 const view3 =
-  "https://i.postimg.cc/brJr52DF/Kakao-Talk-20210820-122624792-02.jpg";
+  "https://i.postimg.cc/k5Cz5pJK/Kakao-Talk-20210830-024144550-02.jpg";
 const view4 =
-  "https://i.postimg.cc/8c0cgPLk/Kakao-Talk-20210820-122624792-03.jpg";
+  "https://i.postimg.cc/tCL8Kg8r/Kakao-Talk-20210830-024144550-03.jpg";
 const view5 =
-  "https://i.postimg.cc/c4v6MwNv/Kakao-Talk-20210820-122624792-04.jpg";
+  "https://i.postimg.cc/x1MBn229/Kakao-Talk-20210830-024144550-01.jpg";  
 
 const Transition = () => {
   const Pageview1 = <Page image={view1} />;

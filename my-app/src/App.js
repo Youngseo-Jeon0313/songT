@@ -1,20 +1,51 @@
 import './App.css';
 import React from 'react';
-import { BrowserRouter as Router } from 'react-router-dom';
+import { Switch, Route, BrowserRouter } from 'react-router-dom';
 import Nav from './components/nav';
 import Transition from './components/transition';
+import MainPage from './components/main';
+import MapContainer from './components/map';
+import Page from './components/page';
+import TeacherPage from './components/teacher';
 
 function App() {
+
+
   return (
-    <div>
-      <Router>
+    <BrowserRouter>
+
+
+        <Switch>
+      <Route exact={true} path="./components/nav">
         <Nav />
-        <Transition />
-      </Router>
-      <div><h1>학원실적</h1></div>
+      </Route>
+      <Route exact={true} path="./components/transition">
+        <Transition/>
+      </Route>
+      <Route exact={true} path="./components/main">
+        <MainPage/>
+      </Route>
+      <Route exact={true} path="./components/teacher">
+        <TeacherPage/>
+      </Route>
+      <Route exact={true} path="./components/page">
+            <Page/>
+      </Route>
+      <Route exact={true} path="./components/map">
+        <MapContainer/>
+      </Route>
+          </Switch>
 
 
-     </div>
+          <MainPage/>
+          <TeacherPage/>
+          <Nav/>
+          <Page/>
+          <MapContainer/>
+
+
+
+     </BrowserRouter>
   );
 }
 

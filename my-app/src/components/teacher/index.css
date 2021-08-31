@@ -1,0 +1,55 @@
+
+.intro {
+        text-align: center;
+        color: #6760aa;
+        font-style:normal;
+        font-size:25px;
+        font-family: Georgia, serif;
+    
+}
+
+.explanation {
+    font-size: 20px;
+    color: rgba(0, 0, 0, 0.466);
+}
+
+.teacherimg {
+    width:80px;
+}
+
+.intro-box1{
+    border-style: solid;
+    border-width: 0 0 0 8px;
+    padding: 12px;
+    word-break: break-all;
+    border-color: lightgray;
+    background-color:rgba(221, 221, 221, 0.2);
+}
+
+
+.intro-box2 {
+    border-style: solid;
+    border-width: 0 0 0 8px;
+    padding: 12px;
+    word-break: break-all;
+    border-color: DodgerBlue;
+    background-color:rgba(30, 144, 255, 0.2);
+}
+
+.intro-box3 {
+    border-style: solid;
+    border-width: 0 0 0 8px;
+    padding: 12px;
+    word-break: break-all;
+    border-color: LightSalmon;
+    background-color: rgba(255, 160, 122, 0.2);
+}
+
+.intro-box4 {
+    border-style: solid;
+    border-width: 0 0 0 8px;
+    padding: 12px;
+    word-break: break-all;
+    border-color: Tomato;
+    background-color:rgba(255, 99, 71, 0.2);
+}
