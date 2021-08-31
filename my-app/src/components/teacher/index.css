@@ -18,6 +18,8 @@
 }
 
 .intro-box1{
+    width: 800px;
+    margin: 0 auto;
     border-style: solid;
     border-width: 0 0 0 8px;
     padding: 12px;
@@ -28,6 +30,8 @@
 
 
 .intro-box2 {
+    width: 800px;
+    margin: 0 auto;
     border-style: solid;
     border-width: 0 0 0 8px;
     padding: 12px;
@@ -37,6 +41,8 @@
 }
 
 .intro-box3 {
+    width: 800px;
+    margin: 0 auto;
     border-style: solid;
     border-width: 0 0 0 8px;
     padding: 12px;
@@ -46,10 +52,23 @@
 }
 
 .intro-box4 {
+    width: 800px;
+    margin: 0 auto;
     border-style: solid;
     border-width: 0 0 0 8px;
     padding: 12px;
     word-break: break-all;
     border-color: Tomato;
     background-color:rgba(255, 99, 71, 0.2);
+}
+
+.intro-box5 {
+    width: 800px;
+    margin: 0 auto;
+    border-style: solid;
+    border-width: 0 0 0 8px;
+    padding: 12px;
+    word-break: break-all;
+    border-color: rgb(43, 87, 33);
+    background-color:rgba(62, 189, 51, 0.2);
 }

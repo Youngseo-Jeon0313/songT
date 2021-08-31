@@ -13,5 +13,13 @@
 }
 
 .mapimg {
-    width:80px;
+    width:70px;
+}
+
+.address{
+    text-align: center;
+    margin: 0 auto;
+    color:rgb(5, 5, 5);
+    background-color:blanchedalmond;
+    width : 700px;
 }

@@ -5,14 +5,24 @@ import Nav from './components/nav';
 import Transition from './components/transition';
 import MainPage from './components/main';
 import MapContainer from './components/map';
-import Page from './components/page';
 import TeacherPage from './components/teacher';
+import Program from './components/programs';
 
 function App() {
 
 
-  return (
+  return ( 
+    
+ 
     <BrowserRouter>
+
+   <MainPage/>
+   <br/>
+   <Nav/>
+    <Transition/>
+   <TeacherPage/>
+    <MapContainer/>
+      <Program/>
 
 
         <Switch>
@@ -28,20 +38,16 @@ function App() {
       <Route exact={true} path="./components/teacher">
         <TeacherPage/>
       </Route>
-      <Route exact={true} path="./components/page">
-            <Page/>
-      </Route>
       <Route exact={true} path="./components/map">
         <MapContainer/>
+      </Route>
+      <Route exact={true} path="./components/programs">
+        <Program/>
       </Route>
           </Switch>
 
 
-          <MainPage/>
-          <TeacherPage/>
-          <Nav/>
-          <Page/>
-          <MapContainer/>
+       
 
 
 

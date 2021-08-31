@@ -1,13 +1,15 @@
-body {
-    overflow: hidden;
-  }
+
   
   .transition-group {
     position: relative;
     margin: 0 auto;
+    text-align: center;
+  }
+
+  .fade{
     width: 50px;
   }
-  
+
   .fade-enter {
     opacity: 0;
     transform: translateX(100%) rotateZ(45deg);

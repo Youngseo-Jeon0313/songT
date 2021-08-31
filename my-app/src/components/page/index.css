@@ -6,8 +6,8 @@
     transform: translateX(-50%);
   }
   
-  img {
-    width: 100px;
+  .academyimg {
+    width: 500px;
     vertical-align: middle;
   }
   

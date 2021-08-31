@@ -4,10 +4,10 @@
     align-items: center;
     background-color: #263343;
     padding:8px 12px;
+    margin: 0 auto;
 }
 
-h1{
-    
+h1{  
     font-size:30px;
     color: white;
     margin-left: 8px;

@@ -5,15 +5,16 @@ ul {
     margin-bottom: 2rem;
 }
 
+li{
+    list-style-type: none;
+    margin-right: 1rem;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
 a{
     color: rgb(70, 94, 228);
     text-decoration: none;
     text-shadow: 0 0 24px;
 }
 
-li{
-    list-style-type: none;
-    margin-right: 1rem;
-    font-size: 1rem;
-    font-weight: bold;
-}
