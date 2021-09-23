@@ -1,26 +1,24 @@
-#map {
+#map2 {
     margin: 0 auto;
     margin-top: 10px;
 }
 
-
-.howtocome {
+.howtocome2 {
         text-align: center;
         color: #6760aa;
         font-style:normal;
         font-size:25px;
         font-family: Georgia, serif;
-    
 }
 
-.mapimg {
+.mapimg2 {
     width:70px;
 }
 
-.address{
+.address2{
     text-align: center;
-    margin-right: 10px;
+    margin-left: 10px;
     color:rgb(5, 5, 5);
     background-color:blanchedalmond;
-    width : 550px;
+    width : 400px;
 }

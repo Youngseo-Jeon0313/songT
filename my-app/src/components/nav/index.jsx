@@ -5,6 +5,8 @@ import "./index.css"
 const Nav =() => {
     return (
         <div>
+            <div className="classroom"><img className="classroom-img" src="https://cdn-icons-png.flaticon.com/512/2422/2422454.png" alt="교실사진"></img>ClassRoom(강의실)</div>
+        <br/>
         <ul>
             <div>
             <li>

@@ -25,6 +25,7 @@ const Transition = () => {
   const location = useLocation();
 
   return (
+    <div>
     <TransitionGroup className="transition-group">
       <CSSTransition key={location.pathname} classNames="fade" timeout={500}>
         <Switch location={location}>
@@ -36,6 +37,7 @@ const Transition = () => {
         </Switch>
       </CSSTransition>
     </TransitionGroup>
+    </div>
   );
 };
 

@@ -18,3 +18,16 @@ a{
     text-shadow: 0 0 24px;
 }
 
+.classroom {
+    text-align: center;
+    margin: 0 auto;
+    color: #6760aa;
+    font-style:normal;
+    font-size:25px;
+    font-family: Georgia, serif;
+  
+  }
+
+  .classroom-img{
+      width:70px;
+  }

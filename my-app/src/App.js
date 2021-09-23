@@ -8,6 +8,8 @@ import MapContainer from './components/map';
 import TeacherPage from './components/teacher';
 import Results from './components/programs';
 import Footer from './components/footer';
+import MapContainer2 from './components/map2';
+import Journey from './components/journey';
 
 function App() {
 
@@ -22,7 +24,11 @@ function App() {
    <Nav/>
     <Transition/>
    <TeacherPage/>
+   <div className="mapcontainers">
     <MapContainer/>
+    <MapContainer2/>
+    </div><br/><br/><br/><br/>
+    <Journey/>
       <Results/>
       <Footer/>
 
@@ -47,6 +53,9 @@ function App() {
         </Route>
       <Route exact={true} path="./components/footer">
         <Footer/>
+      </Route>
+      <Route exact={true} path="./components/journey">
+        <Journey/>
       </Route>
           </Switch>
 

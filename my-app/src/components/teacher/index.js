@@ -15,7 +15,7 @@ function TeacherPage() {
         </div>
     <br/>
         <div className="intro-box2">
-        <div className="explanation">중학교 / 고등학교 입시.내신 전문</div>
+        <div className="explanation">초등학교 / 중학교 / 고등학교 입시.내신 전문</div>
         </div>
     <br/>
         <div className="intro-box3">
@@ -29,7 +29,10 @@ function TeacherPage() {
         <div className="intro-box5">
             <div className="explanation">영어에 차차 흥미를 붙이는 수업 방식</div>
         </div>
-        
+        <br/>
+        <div className="intro-box6">
+            <div className="explanation">책임감 있으며, 티칭 위주의 면대면 수업</div>
+        </div>
         </>
     );
 }
