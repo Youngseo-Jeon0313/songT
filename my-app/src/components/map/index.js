@@ -22,8 +22,9 @@ const MapContainer = () => {
     return (
         <div className="maps">
         <br/><br/><br/><br/>
-        <div className="howtocome"><img className="mapimg" src="https://cdn.icon-icons.com/icons2/2073/PNG/512/location_map_twitter_icon_127126.png" alt="지도 이미지"/>&nbsp;&nbsp;&nbsp;&nbsp;HOW TO COME</div>
-        <div className="address">경기도 김포시 김포한강4로420번길 88 / 408호(김포 호수 초등학교 앞!)</div>
+        <div className="address">
+          <div>1호점 - 학원</div>
+          <div>경기도 김포시 김포한강4로420번길 88 / 408호(김포 호수 초등학교 앞!)</div></div> 
         <div id="map" style={{
             width: '400px',
             height: '400px',
