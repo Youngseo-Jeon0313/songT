@@ -8,6 +8,10 @@
   
   .academyimg {
     width: 500px;
+    margin: 0 auto;
     vertical-align: middle;
+    overflow: hidden;
+    transition: all 0.2s linear;
   }
+
   

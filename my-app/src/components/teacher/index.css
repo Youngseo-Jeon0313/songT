@@ -18,7 +18,7 @@
 }
 
 .intro-box1{
-    width: 800px;
+    width: 1000px;
     margin: 0 auto;
     border-style: solid;
     border-width: 0 0 0 8px;
@@ -30,7 +30,7 @@
 
 
 .intro-box2 {
-    width: 800px;
+    width: 1000px;
     margin: 0 auto;
     border-style: solid;
     border-width: 0 0 0 8px;
@@ -41,7 +41,7 @@
 }
 
 .intro-box3 {
-    width: 800px;
+    width: 1000px;
     margin: 0 auto;
     border-style: solid;
     border-width: 0 0 0 8px;
@@ -52,7 +52,7 @@
 }
 
 .intro-box4 {
-    width: 800px;
+    width: 1000px;
     margin: 0 auto;
     border-style: solid;
     border-width: 0 0 0 8px;
@@ -62,19 +62,10 @@
     background-color:rgba(255, 99, 71, 0.2);
 }
 
-.intro-box5 {
-    width: 800px;
-    margin: 0 auto;
-    border-style: solid;
-    border-width: 0 0 0 8px;
-    padding: 12px;
-    word-break: break-all;
-    border-color: rgb(43, 87, 33);
-    background-color:rgba(62, 189, 51, 0.2);
-}
+
 
 .intro-box6 {
-    width: 800px;
+    width: 1000px;
     margin: 0 auto;
     border-style: solid;
     border-width: 0 0 0 8px;
@@ -82,4 +73,24 @@
     word-break: break-all;
     border-color: rgb(245, 229, 4);
     background-color:rgba(241, 255, 162, 0.2);
+}
+
+.questionmark{
+    width: 40px;
+
+}
+
+.big{
+    color: black;
+}
+
+.intro-box7 {
+    width: 1000px;
+    margin: 0 auto;
+    border-style: solid;
+    border-width: 0 0 0 8px;
+    padding: 12px;
+    word-break: break-all;
+    border-color: rgb(57, 252, 209);
+    background-color:rgba(214, 255, 250, 0.2);
 }

@@ -24,7 +24,7 @@ const MapContainer2 = () => {
         <br/><br/><br/><br/>
         <div className="address2">
         <div>2호점 - 공부방</div>
-          <div>김포캐슬앤파밀리에시티(공부방)</div></div>
+          <div>김포캐슬앤파밀리에시티 135동(공부방)</div></div>
         <div id="map2" style={{
             width: '400px',
             height: '400px',

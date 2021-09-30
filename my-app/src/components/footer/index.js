@@ -4,7 +4,7 @@ import "./index.css";
 function Footer() {
     return(<>
         <footer>
-            <h5>피드백은 20wjsdudtj@gmail.com으로 주세요.</h5>
+            <h4>수업에 대한 문의는 010-6254-7396으로 주세요.</h4>
         </footer>
 
 </>

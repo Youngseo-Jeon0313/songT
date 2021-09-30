@@ -1,0 +1,50 @@
+.review{
+    display: flex;
+    flex: 1;
+}
+
+.text1{
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 100%
+}
+
+.ddabong{
+    width:50px;
+}
+
+.testscore {
+    text-align: center;
+    margin: 0 auto;
+    color: #6760aa;
+    font-style:normal;
+    font-size:25px;
+    font-family: Georgia, serif;
+  
+  }
+
+.name{
+    font-size: 25px;
+    font-weight:bold;
+}
+
+.woojin{
+    width: 600px;
+    margin: 0 auto;
+    border-radius: 40px 80px / 80px 40px;
+    background-color: coral;
+    margin-bottom: 10px;
+    margin-right: 5px;
+    font-size:17px;
+   
+}
+
+.youngseo{
+    width: 600px;
+    margin: 0 auto;
+    border-radius: 20px 40px 60px 80px / 80px 60px 40px 20px;
+    background-color: rgb(80, 255, 138);
+    margin-bottom: 10px;
+    margin-left: 5px;
+    font-size:17px;
+}

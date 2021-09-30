@@ -2,7 +2,7 @@ footer {
     display:flex;
     justify-content: space-between;
     align-items: center;
-    background-color: teal;
+    background-color: rgb(13, 162, 255);
     padding:8px 12px;
     margin: 0 auto;
 }
