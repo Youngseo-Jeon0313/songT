@@ -11,11 +11,11 @@ function TeacherPage() {
         <br/>
         <div className="intro-box1">
             <div className="explanation">
-            <div className="big"><img className="questionmark" src="https://thumb.ac-illust.com/t/cf/cf9bb39c2931829a5681f635d8902b46_t.jpeg" alt="questionmark"/>선생님은 어떤 분이시죠?</div>
+            <div className="big"><img className="questionmark" src="https://thumb.ac-illust.com/t/cf/cf9bb39c2931829a5681f635d8902b46_t.jpeg" alt="questionmark"/>선생님들, 어떤 분들이시죠?</div>
             <br/>교사 경력 20년 이상으로, 영어 교육 뿐만 아니라 학생들의 공부 태도나 습관 등 전반적인 것에 능통하십니다.  <br/>
             선생님께 배운 학생들은 <span style={{color:'red'}}>특목고(외고, 자사고) , 사립 중학교</span>에 다수 진학합니다!<br/>
             아무래도 선생님께 많은 정보를 얻고, 어릴 때부터 스스로 공부하는 방법을 배운 덕분이겠죠?<br/><br/>
-            어린 친구들이라도 선생님에게 쉽게 마음을 열 수 있을 정도로 따뜻하지만 카리스마 있는 선생님이시구요,<br/>
+            어린 친구들이라도 선생님에게 쉽게 마음을 열 수 있도록 지도합니다.<br/>
             또 간단히 자소서나 면접을 도와주실 수 있을 정도로 진학 경험이 많습니다.
             </div>
         </div>
@@ -67,7 +67,7 @@ function TeacherPage() {
             걱정하지 마세요!<br/>
             영어에 차차 흥미를 붙이는 수업 방식으로 진행합니다. <br/>
             <span style={{color:'red'}}>영어 노래</span>를 암기해서 부르거나, <span style={{color:'red'}}>영어 스피킹 대회</span> 등을 통해 친구들과 영어 공부를 흥미롭게, 재미를 붙여 공부할 수 있도록 합니다. <br/>
-            저는 어릴적 놀이터에서 노는 것보다 영어 학원에 오는 걸 좋아했어요 ㅎㅎ         
+                     
             
             </div>
         </div>
