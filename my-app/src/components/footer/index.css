@@ -1,8 +1,10 @@
+#wrapper{min-width: 1280px}
+
 footer {
     display:flex;
     justify-content: space-between;
     align-items: center;
-    background-color: rgb(13, 162, 255);
+    background-color:#99CCFF;
     padding:8px 12px;
     margin: 0 auto;
 }

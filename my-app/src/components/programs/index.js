@@ -3,9 +3,9 @@ import "./index.css";
 
 function Results() {
     return(
-<><br/><br/>
-<div className="result"><img className="testscore" src="https://image.flaticon.com/icons/png/512/1086/1086912.png" alt="지도 이미지"/>&nbsp;&nbsp;&nbsp;&nbsp;Results</div>
-<br/><br/>
+<><br/>
+<div className="result"><img className="testscore" src="https://cdn-icons-png.flaticon.com/128/782/782702.png" alt="지도 이미지"/>&nbsp;&nbsp;&nbsp;&nbsp;Results</div>
+<br/>
 <div className="student">
 
 김포 2016년 ~ 현재까지 <br/>

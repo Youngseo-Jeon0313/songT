@@ -7,7 +7,9 @@
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
     "react": "^17.0.2",
+    "react-device-detect": "^2.0.1",
     "react-dom": "^17.0.2",
+    "react-modal": "^3.15.1",
     "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.3",
     "react-simple-image-slider": "^2.2.0",
@@ -40,5 +42,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "homepage": "https://wonderful-ptolemy-8af176.netlify.app/"
 }

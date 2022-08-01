@@ -10,10 +10,10 @@ function Review(){
             <div className="review">
             
             <div className="woojin">
-                <div className="name">학생1</div>
+                <div className="name"><br/>학생1</div>
                 
                 <div className="text1">
-                    <br/><br/>
+                <br/><br/>
                 선생님께 파닉스부터 차근차근 배우면서 영어를 처음 접해보았을 때가 생각나는데요! <br/><br/>
                 공부에 대해서는 전혀 관심없던 초등학생 때부터 영어의 중요성에 대해 가르쳐주셨습니다. <br/><br/>
                 그래서 고등학교 진학시에도 자신있게 '외고'에 지원해보게 되었고, 또 대학에 온 지금도 영어라면 두려움이 없게 되었습니다. <br/><br/>
@@ -25,7 +25,7 @@ function Review(){
                 </div>
             </div>
             <div className="youngseo">
-            <div className="name">학생2</div>
+            <div className="name"><br/>학생2</div>
                 <div className="text1">
                 <br/><br/>
                 선생님께 유치원부터 중학생때까지 배우면서 파닉스부터 다양한 자격증과 고등영어를 배웠습니다. <br/><br/>
